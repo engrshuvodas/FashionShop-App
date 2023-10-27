@@ -43,5 +43,5 @@ Fashion Shop App is an e-commerce website project that I developed :girl:. The b
 # Contact
  <b>Linkedin</b>: [Van Cao](https://www.linkedin.com/in/vancao1999/)
  <br/>
- <b>Email</b>: caongochoangvan1999@gmail.com
+ <b>Email</b>: engrshuvoda@gmail.com
 
